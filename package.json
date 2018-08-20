@@ -2,7 +2,7 @@
   "name": "caching-data",
   "version": "1.0.0",
   "description": "A project to practice caching data in the browser.",
-  "author": "Shawn Rider <shawn@shawnrider.com>",
+  "author": "Kendal Smith <kendalinas@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
